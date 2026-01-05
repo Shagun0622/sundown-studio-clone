@@ -83,5 +83,5 @@ Hover over featured projects to see dynamic image previews, smooth animations, a
 
 **Shagun Kumari**  
 Frontend Developer  
-🔗 GitHub: https://github.com/Shagun330
+🔗 GitHub: https://github.com/Shagun0622
 
